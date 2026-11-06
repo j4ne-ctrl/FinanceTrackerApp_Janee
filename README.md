@@ -5,14 +5,14 @@ Aplikasi pencatat keuangan pribadi berbasis **Flutter** dengan **Firebase Authen
 ## 🎬 Demo
 
 📺 **[Tonton video demo di Google Drive](https://drive.google.com/file/d/1QrMFrSq3cwEp8UP0zyezy-Q4y7brNgy_/view?usp=sharing)**
-<img width="556" height="1080" alt="Screenshot 2026-11-06 141752" src="https://github.com/user-attachments/assets/e80ea4ba-8b49-4f96-a07a-c6825a3071d5" />
-<img width="556" height="1080" alt="Screenshot 2026-11-06 141756" src="https://github.com/user-attachments/assets/7f3c4a82-8e6e-4644-a3a3-87ebcd15e7ba" />
-<img width="556" height="1080" alt="Screenshot 2026-11-06 141822" src="https://github.com/user-attachments/assets/592d5ed8-a7ea-42c0-b62f-e524389ae9c5" />
-<img width="556" height="1080" alt="Screenshot 2026-11-06 141825" src="https://github.com/user-attachments/assets/16bf51d5-cc22-4ad4-b4cd-9762c5fa021a" />
-<img width="556" height="1080" alt="Screenshot 2026-11-06 141830" src="https://github.com/user-attachments/assets/f387cd2c-18b6-4f54-ba0a-1fb24ce53e8a" />
-<img width="556" height="1080" alt="Screenshot 2026-11-06 141833" src="https://github.com/user-attachments/assets/d07fbca6-315b-435c-af24-fe6273bd8cc9" />
-<img width="556" height="1080" alt="Screenshot 2026-11-06 141837" src="https://github.com/user-attachments/assets/ec529757-dcf2-4c26-b1a9-1bfb79400a27" />
-<img width="556" height="1080" alt="Screenshot 2026-11-06 141840" src="https://github.com/user-attachments/assets/19eda984-c632-450a-9be9-ca43ed0f201d" />
+<img width="200" alt="Screenshot 2026-11-06 141752" src="https://github.com/user-attachments/assets/e80ea4ba-8b49-4f96-a07a-c6825a3071d5" />
+<img width="200" alt="Screenshot 2026-11-06 141756" src="https://github.com/user-attachments/assets/7f3c4a82-8e6e-4644-a3a3-87ebcd15e7ba" />
+<img width="200" alt="Screenshot 2026-11-06 141822" src="https://github.com/user-attachments/assets/592d5ed8-a7ea-42c0-b62f-e524389ae9c5" />
+<img width="200" alt="Screenshot 2026-11-06 141825" src="https://github.com/user-attachments/assets/16bf51d5-cc22-4ad4-b4cd-9762c5fa021a" />
+<img width="200" alt="Screenshot 2026-11-06 141830" src="https://github.com/user-attachments/assets/f387cd2c-18b6-4f54-ba0a-1fb24ce53e8a" />
+<img width="200" alt="Screenshot 2026-11-06 141833" src="https://github.com/user-attachments/assets/d07fbca6-315b-435c-af24-fe6273bd8cc9" />
+<img width="200" alt="Screenshot 2026-11-06 141837" src="https://github.com/user-attachments/assets/ec529757-dcf2-4c26-b1a9-1bfb79400a27" />
+<img width="200" alt="Screenshot 2026-11-06 141840" src="https://github.com/user-attachments/assets/19eda984-c632-450a-9be9-ca43ed0f201d" />
 
 
 ## ✨ Fitur
